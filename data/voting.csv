@@ -1,0 +1,54 @@
+﻿state_name,state_abb,value
+Alabama,AL,Restrictive
+Georgia,GA,Restrictive
+Iowa,IA,Restrictive
+Oklahoma,OK,Both
+Pennsylvania,PA,
+Nebraska,NE,
+Missouri,MO,
+Nevada,NV,Both
+Florida,FL,Restrictive
+Arkansas,AR,Restrictive
+Texas,TX,Restrictive
+Utah,UT,Restrictive
+New Mexico,NM,Expansive
+Kansas,KS,Restrictive
+Mississippi,MS,
+Minnesota,MN,Expansive
+Wisconsin,WI,
+Tennessee,TN,
+Virginia,VA,Expansive
+Arizona,AZ,Both
+Kentucky,KY,Both
+South Dakota,SD,
+Oregon,OR,Expansive
+Michigan,MI,
+California,CA,Expansive
+Ohio,OH,
+New York,NY,Expansive
+Indiana,IN,Both
+Illinois,IL,Expansive
+North Carolina,NC,
+Maine,ME,Expansive
+North Dakota,ND,Expansive
+Colorado,CO,Expansive
+Alaska,AK,
+Wyoming,WY,Restrictive
+Montana,MT,Both
+Hawaii,HI,Expansive
+Idaho,ID,Restrictive
+Maryland,MD,Expansive
+West Virginia,WV,
+South Carolina,SC,
+Washington,WA,Expansive
+New Jersey,NJ,Expansive
+Vermont,VT,Expansive
+Louisiana,LA,Both
+Rhode Island,RI,
+New Hampshire,NH,Both
+Connecticut,CT,Expansive
+Massachusetts,MA,Expansive
+District of Columbia,DC,
+Delaware,DE,Expansive
+null,,
+null,null,null

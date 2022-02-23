@@ -1,0 +1,80 @@
+#container {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    border-left: 1px solid black;
+    border-bottom: 14pt solid black;
+    border-top: 1px solid black;
+    border-right: 1px solid black;
+    box-shadow: 5px 5px 10px gainsboro;
+    min-width: 300px;
+    max-width: 600px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    font-size:24px;
+    fill:#2c2c2c;
+    font-weight: bold;
+}
+
+h2 {
+    fill:grey;
+    font-size:18px;
+    padding-bottom: 12px;
+}
+
+h3 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    fill:grey;
+    font-size:12px;
+    text-transform: uppercase;
+}
+
+h4 {
+    font-family:'Poppins', sans-serif;
+    fill:grey;
+    font-size:12px;
+}
+
+.an{
+    padding-top: 50px;
+}
+
+.legend {
+	margin: 10px 0;
+}
+.legend.legend-horizontal > div {
+	display: inline-block;
+}
+.legend .legend-box {
+	width: 16px;
+	height: 16px;
+	display: inline-block;
+	vertical-align: top;
+}
+.legend .legend-value {
+	display: inline-block;
+	margin: -1px 8px 5px 5px;
+	vertical-align: top;
+}
+
+.legend .re {
+	background-color: #de5826;
+}
+.legend .ex {
+	background-color: #8fd694;
+}
+.legend .bo {
+	background-color: #1979b9;
+}
+.legend .no {
+	background-color: rgb(243, 243, 243)
+}
